@@ -1,0 +1,8 @@
+backup_resources/
+resources/
+venv/
+__pycache__/
+.env
+session_name.session
+
+test.ipynb
