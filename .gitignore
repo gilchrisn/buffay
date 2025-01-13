@@ -6,3 +6,8 @@ __pycache__/
 session_name.session
 
 test.ipynb
+hehe.txt
+apikeys.txt
+
+multi_label_event_model/
+ner_model/
